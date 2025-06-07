@@ -1,6 +1,6 @@
 import React from 'react';
 import { X, Settings, Maximize2, Minimize2 } from 'lucide-react';
-import { Card } from '../../../common/components/Card';
+import { Card } from '../../../../common/components/Card';
 
 // Import all widget components
 import { OverallProgressWidget } from './widgets/OverallProgressWidget';
