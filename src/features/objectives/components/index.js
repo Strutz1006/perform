@@ -1,0 +1,1 @@
+export { ObjectivesView } from './components/ObjectivesView';
