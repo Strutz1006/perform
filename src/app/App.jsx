@@ -1,6 +1,6 @@
 import React, { useState } from 'react';
 import { MainLayout } from '../layouts/MainLayout';
-import { DashboardView } from '../features/components/dashboard';
+import { DashboardView } from '../features/dashboard';
 import { MissionView } from '../features/mission';
 import { ObjectivesView } from '../features/objectives';
 import { GoalsView } from '../features/goals';
