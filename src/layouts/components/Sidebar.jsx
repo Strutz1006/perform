@@ -13,7 +13,7 @@ export const Sidebar = ({ activeView, setActiveView }) => {
   return (
     <aside className="hidden lg:flex lg:flex-col lg:w-64 lg:fixed lg:inset-y-0 bg-gray-900 text-white">
       <div className="flex items-center justify-center h-16 px-4 bg-gray-800">
-        <h1 className="text-xl font-bold">PerfTrack</h1>
+        <h1 className="text-xl font-bold">Perform</h1>
       </div>
       <nav className="flex-1 px-4 pb-4 mt-5">
         {navItems.map(item => (
