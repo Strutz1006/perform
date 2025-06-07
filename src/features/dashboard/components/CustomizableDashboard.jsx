@@ -3,7 +3,7 @@ import { Responsive, WidthProvider } from 'react-grid-layout';
 import { Plus, Settings, Save, X, Grid3x3, List } from 'lucide-react';
 import { Button } from '../../../common/components/Button';
 import { WidgetLibrary } from './WidgetLibrary';
-import { DashboardWidget } from './widgets/DashboardWidget';
+import { DashboardWidget } from './DashboardWidget';  // ← Correct path
 import { useDashboardLayout } from '../hooks/useDashboardLayout';
 import { useObjectives } from '../../objectives/hooks/useObjectives';
 import { useDashboardData } from '../hooks/useDashboardData';
